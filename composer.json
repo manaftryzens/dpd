@@ -1,8 +1,8 @@
 {
-    "name": "Dpd/Shipping",
-    "description": "DPD shipping sdk",
+    "name": "Test/Composer",
+    "description": "Test composer sdk",
     "license": "MIT",
-    "keywords": ["dpd"],
+    "keywords": ["composer"],
     "authors": [
         {
             "name": "Tryzens",
@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Dpd\\Shipping\\": "src"
+            "Test\\Composer\\": "src"
         }
     }
 }

@@ -1,6 +1,6 @@
 <?php
 
-namespace Dpd\Shipping;
+namespace Test\Composer;
 
 class Base{
     protected $_actionName;

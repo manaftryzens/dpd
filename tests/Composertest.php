@@ -1,8 +1,8 @@
 <?php
 
-use Dpd\Shipping\Base;
+use Test\Composer\Base;
 
-class Dpd_Shipping_BaseTest extends PHPUnit_Framework_TestCase {
+class Test_Composer_BaseTest extends PHPUnit_Framework_TestCase {
 
     public function testBaseSetAction()
     {
