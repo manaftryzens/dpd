@@ -1,0 +1,21 @@
+{
+    "name": "Dpd/Shipping",
+    "description": "DPD shipping sdk",
+    "license": "MIT",
+    "keywords": ["dpd"],
+    "authors": [
+        {
+            "name": "Tryzens",
+            "email": "manaf.pm@tryzens.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "4.0.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Dpd\\Shipping\\": "src"
+        }
+    }
+}
